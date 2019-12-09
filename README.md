@@ -1,4 +1,4 @@
-#### usersテーブル
+#### usersテーブル.
 |Column|Type|Options|
 |------|----|-------|
 |firstname|string|null: false|
